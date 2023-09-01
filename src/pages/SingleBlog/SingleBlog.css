@@ -1,0 +1,27 @@
+/* Blog post styles */
+.blog-post {
+    max-width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.avatar {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.blog-title {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+.blog-description {
+    font-size: 1rem;
+    color: #555;
+    margin-top: 10px;
+}
